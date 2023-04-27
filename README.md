@@ -2,7 +2,7 @@
 
 here is image if you dont know minimax
 
-![Minimax](https://github.com/ca1c/tictactoe-minimax/blob/main/minimax.png?raw=true)
+![Minimax](https://github.com/ca1c/tictactoe-minimax/blob/master/minimax.png?raw=true)
 
 This is how minimax in tictactoe works.
 
