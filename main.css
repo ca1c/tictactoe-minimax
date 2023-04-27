@@ -1,0 +1,12 @@
+#game {
+    max-width: 225px;
+}
+
+button {
+    width: 75px;
+    height: 75px;
+    border-radius: 0px;
+    padding: 10px;
+    margin: 0px;
+    border: 1px solid black;
+}
